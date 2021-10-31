@@ -6,7 +6,7 @@ For creating our retention table to find the rate we need to know how many playe
 there's a small part of the table: 
 
 <img width="338" alt="retentionTableDemo" src="https://user-images.githubusercontent.com/59418722/139507201-29b01c88-7133-4d14-9929-e093691ed373.png">
-to see the whole table you can check [this page](https://docs.google.com/spreadsheets/d/1sIoAwZYjOvSxGNlQqi5jZi-XbUfp5vBVthGqkuW1CiM/edit?usp=sharing)
+to see the whole table you can check [this link](https://docs.google.com/spreadsheets/d/1sIoAwZYjOvSxGNlQqi5jZi-XbUfp5vBVthGqkuW1CiM/edit?usp=sharing)
 
 ### Retention Rate by Day
 
