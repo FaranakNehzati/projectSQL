@@ -6,7 +6,7 @@ For creating our retention table to find the rate we need to know how many playe
 there's a small part of the table: 
 
 <img width="338" alt="retentionTableDemo" src="https://user-images.githubusercontent.com/59418722/139507201-29b01c88-7133-4d14-9929-e093691ed373.png">
-to see the whole table you can check(https://docs.google.com/spreadsheets/d/1sIoAwZYjOvSxGNlQqi5jZi-XbUfp5vBVthGqkuW1CiM/edit?usp=sharing)
+to see the whole table you can check [this page](https://docs.google.com/spreadsheets/d/1sIoAwZYjOvSxGNlQqi5jZi-XbUfp5vBVthGqkuW1CiM/edit?usp=sharing)
 
 ### Retention Rate by Day
 
@@ -25,6 +25,10 @@ here is the table:
 To see which region has the most players I made the graph below: 
 
 ![Number of players by location](https://user-images.githubusercontent.com/59418722/139508793-b00179cc-12f3-44bf-8ba0-2014b1b1e35f.png)
+
+And for each region I graphed the average spending:
+
+![Average Spending for each Region (1)](https://user-images.githubusercontent.com/59418722/139597035-9fedb108-38c8-4ef9-a3f6-a990316c4efa.png)
 
 In finding out the retention rate I had an issue with putting players joined each day  next to players retained therefore I used nested queries. And it is slightly long because I didn't use any CASE statement. But my partner Jason could write a shorter query for this which I think can be another way of getting to the table.
 After studying the graph for the retention table I observed that the retention rate decreased dramatically through the last few days. I believe it is because of the lack of data for the months after. As for me we can ignore the part in the visualization. With further data we can have a better understanding of it.
